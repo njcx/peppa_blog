@@ -52,7 +52,7 @@ BOOTSTRAPIFY = {
 
 THEME = '/Users/njcx/peppa_blog/alchemy'
 
-SITESUBTITLE = '芝兰生于深谷，不以无人而不芳；君子修道立德，不为困穷而改节。'
+SITESUBTITLE = '生而不忧，死而不怖。得其时横刀天下，不得其时蓬头而行'
 SITEIMAGE = '/images/profile.png width=200 height=200'
 DESCRIPTION = 'Linux重度用户，Python从业人员，个人小博客，欢迎访问'
 
