@@ -1,2 +1,2 @@
 # This blog by pelican
-## www.njcx.bid
+## www.njcx.bid/share
