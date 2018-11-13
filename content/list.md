@@ -82,7 +82,7 @@ C11  Title: 计算机应用
 
 C12 Title: 钢铁
 
-D1  Title: 景点及旅游
+D1     
 
 D2  Title: 公路铁路运输
 
